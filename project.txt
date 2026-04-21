@@ -1,0 +1,1 @@
+in this project we want to be able to search for a book genre then search for a specific book to see if its in that genre and if its in stock. for this we will need all the books titles, genres and if they are currently in stock.
