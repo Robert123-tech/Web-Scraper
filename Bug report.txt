@@ -1,0 +1,1 @@
+currently the program shows when it gets the date for each page which is bad for customer satisfaction.
