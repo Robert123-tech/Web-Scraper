@@ -1,0 +1,2 @@
+Test 1: see what happens if you type in not one of the filtering options
+test 2: what happens if you type while its getting the data
