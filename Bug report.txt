@@ -1,1 +1,3 @@
-currently the program shows when it gets the date for each page which is bad for customer satisfaction.
+currently the program shows when it gets the date for each page which is bad for customer satisfaction. date found 4 / 22/ 26
+program ends once you filter once. date found 4/23/26
+
